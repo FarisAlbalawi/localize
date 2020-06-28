@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  localize
+
+  Created by Faris Albalawi on 6/28/20.
+  Copyright © 2020 Faris Albalawi. All rights reserved.
+*/
+
+
+"Welcome" = "مرحباً بك";
+
+"Change Language" = "تغير اللغة";
+
+"Cancel" = "إلغاء";
