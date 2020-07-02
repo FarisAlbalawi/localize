@@ -28,8 +28,9 @@ LanguageManager.shared.setLanguage(language: .ar,viewControllerFactory: { title 
       // set the view controller that you want to show after changing the language
      return ViewController()
     }) { view in
+      /// view.transform = CGAffineTransform(scaleX: 2, y: 2)
        view.transform = CGAffineTransform(scaleX: 1, y: 1)
-      view.alpha = 0
+       view.alpha = 0
     }
                
 ```
