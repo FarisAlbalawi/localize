@@ -2,7 +2,7 @@
 
 ## Features 
 -  Supports All languages 
--  Flipping the app from left to right if the language Arabic
+-  Flipping the app from left to right if the language is Arabic
 -  Change the language inside of the app
 -  Change the language from setting
 -  Swift 5
