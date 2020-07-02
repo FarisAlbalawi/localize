@@ -1,11 +1,11 @@
 # localize
 
 ## Features 
--   Supports All languages 
--   flipping the app from left to right if the language Arabic
--   change the language inside of the app
--   change the language from setting
--   swift 5
+-  Supports All languages 
+-  Flipping the app from left to right if the language Arabic
+-  Change the language inside of the app
+-  Change the language from setting
+-  Swift 5
 
 ## Usage
 
