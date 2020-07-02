@@ -9,8 +9,7 @@
 
 ## Usage
 
-### import LanguageManager file
-Add the LanguageManager.swift in your project 
+First of all, you should Add the `LanguageManager.swift` in your project.
 
 ### localized string file
 Add `Localizable.strings` for a Language 
